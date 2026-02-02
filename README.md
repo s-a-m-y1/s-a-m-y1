@@ -1,5 +1,3 @@
-# 💫 About Me:
-## 👋 Hi, I'm **SA MY**<br><br>I'm a passionate **C++ developer** focused on building my skills in  <br>**Problem Solving, Data Structures, and Object-Oriented Programming**.  <br>I enjoy turning ideas into real projects and improving my coding level every day.<br><br>### 🎯 My Goals<br>- Become a **Software Engineer** in a strong tech company.<br>- Build practical projects that solve real problems.<br>- Improve continuously through problem solving and open-source contributions.<br><br>### 🛠️ Tech & Skills<br>- **Languages:** C++<br>- **Core Skills:** Problem Solving, Data Structures, Algorithms, OOP<br>- **Interests:** System Design, Startup Ideas, Software Engineering<br><br>### 📫 Contact Me<br>- **Email:** sam858y@gmail.com  <br>- **LinkedIn:** https://www.linkedin.com/in/sa-my-12373337b  <br>- **GitHub:** *Add your GitHub link here*<br><br>---<br>
 
 
 ## 🌐 Socials:
