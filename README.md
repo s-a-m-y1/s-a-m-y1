@@ -1,9 +1,17 @@
-# Hi there, I'm Sami! 👋
+# Hi there, I'm Samy! 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s-a-m-y1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
+### 🏦 Featured Project: Bank Management System (C++)
+*Building a robust banking engine with a focus on clean architecture and high performance.*
+
+- **Concepts Applied:** ⚙️ OOP (Inheritance, Polymorphism, Encapsulation), 📁 File Streams, and 🏗️ Layered Architecture.
+- **Current Progress:** ✅ Implemented Client Management (CRUD) & Colorized Console UI.
+- **Goal:** 🎯 Mastering System Design and Complex Data Persistence.
+
+---
 
 ### 🛠 My Tech Stack
 <p align="left">
