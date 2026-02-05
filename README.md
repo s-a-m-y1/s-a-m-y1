@@ -1,10 +1,35 @@
+# Hi there, I'm Sami! 👋
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-a-m-y1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sa-my-12373337b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sam858y@gmail.com) 
+### 🛠 My Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,visualstudio" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+---
 
-## 📈 Stats Badge
-![CodeWars](https://www.codewars.com/users/s-a-m-y1/badges/large)
+### 🏆 Coding Achievements
+<p align="left">
+  <a href="https://www.codewars.com/users/s-a-m-y1">
+    <img src="https://www.codewars.com/users/s-a-m-y1/badges/large" />
+  </a>
+</p>
+
+---
+
+### 🌐 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/sa-my-12373337b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:sam858y@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 GitHub Activities
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-m-y1&theme=radical" />
+</p>
