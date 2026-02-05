@@ -1,7 +1,7 @@
 # Hi there, I'm Samy! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-a-m-y1&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-a-m-y1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </p>
 
 ### 🏦 Featured Project: Bank Management System (C++)
