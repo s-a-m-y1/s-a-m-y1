@@ -1,8 +1,7 @@
 # Hi there, I'm Samy! 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20To%20My%20World&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=45&animation=fadeIn&fontAlignY=35" />
 </p>
-
 ### 🏦 Featured Project: Bank Management System (C++)
 > *“Building the future of finance, one class at a time.”* 🚀
 
